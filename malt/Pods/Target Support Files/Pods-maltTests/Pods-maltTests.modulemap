@@ -1,0 +1,6 @@
+framework module Pods_maltTests {
+  umbrella header "Pods-maltTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
