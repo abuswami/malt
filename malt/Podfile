@@ -8,6 +8,7 @@ target 'malt' do
   # Pods for malt
 pod 'Firebase/Analytics'
 pod 'Firebase/Database'
+pod 'Firebase/Firestore'
 
 
 
